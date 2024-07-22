@@ -16,3 +16,10 @@ Presented as _late-breaking work_ during the [The 2nd World Conference on eXplai
 Images, ages and labels (cognitive decline level) were collected from the Alzheimer's Disease Neuroimaging Initiative (ADNI) https://adni.loni.usc.edu (data publicitly available under request)
 
 Codes adapted from the original [PIPNet](https://github.com/M-Nauta/PIPNet/tree/main)
+
+Training a PIMPNet: main_train_pimpnet.py
+
+Test a trained PIMPNet: main_test_pimpnet.py
+(trained weights saved in "models" folder)
+
+
