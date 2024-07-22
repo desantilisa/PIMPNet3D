@@ -21,6 +21,6 @@ Training a PIMPNet: main_train_pimpnet.py
 
 Test a trained PIMPNet: main_test_pimpnet.py
 
-Link to the weights of the trained PIMPNet available in "models" folder.
+Link to the weights of trained PIMPNet(s) available in "models" folder.
 
 
