@@ -14,7 +14,9 @@ Presented as _late-breaking work_ during the [The 2nd World Conference on eXplai
 
 ![Overview of PIMPNet](https://github.com/desantilisa/PIMPNet3D/blob/main/pimpnet_poster.png)   
 
-Images, ages and labels (cognitive decline level) were collected from the Alzheimer's Disease Neuroimaging Initiative (ADNI) https://adni.loni.usc.edu (data publicity available under request)
+Images, ages and labels (cognitive decline level) were collected from the Alzheimer's Disease Neuroimaging Initiative (ADNI) https://adni.loni.usc.edu (data publicity available under request).
+
+Brain atlas (CerebrA) downloaded from https://nist.mni.mcgill.ca/cerebra/.
 
 Codes adapted from the original [PIPNet](https://github.com/M-Nauta/PIPNet/tree/main)
 
