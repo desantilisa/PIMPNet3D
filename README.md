@@ -11,7 +11,7 @@ Classes (clinical cognitive decline level):
 
 Presented as _late-breaking work_ during the [The 2nd World Conference on eXplainable Artificial Intelligence](https://xaiworldconference.com/2024/the-conference/) in July 2024.
 
-![Overview of PIMPNet]([https://github.com/](https://github.com/desantilisa/PIMPNet3D/blob/main/pimpnet_poster.png))    
+![Overview of PIMPNet](https://github.com/desantilisa/PIMPNet3D/blob/main/pimpnet_poster.png)   
 
 Images, ages and labels (cognitive decline level) were collected from the Alzheimer's Disease Neuroimaging Initiative (ADNI) https://adni.loni.usc.edu (data publicitly available under request)
 
