@@ -20,6 +20,6 @@ Codes adapted from the original [PIPNet](https://github.com/M-Nauta/PIPNet/tree/
 Training a PIMPNet: main_train_pimpnet.py
 
 Test a trained PIMPNet: main_test_pimpnet.py
-(trained weights saved in "models" folder)
+Trained weights saved in "models" folder (zipped)
 
 
